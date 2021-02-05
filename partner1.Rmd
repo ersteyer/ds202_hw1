@@ -1,0 +1,12 @@
+---
+title: "partner1"
+author: "Jack Novak"
+date: "2/5/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My name is Jack Novak and my github username is jackcnovak. Eric's most recent commit, labeled 'Homework 1 commit,' added the .Rmd and .html files from HW 1 and had commit ID 5a772b23c66f3032faf77026abcc035d539ae110. I didn't run into any errors when I knitted Eric's HW 1 file. Finally, I didn't encounter too much difficulty, although I moved slowly at times because I'm somewhat unfamiliar with R.
